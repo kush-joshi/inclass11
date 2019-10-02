@@ -1,0 +1,1 @@
+min class 11
