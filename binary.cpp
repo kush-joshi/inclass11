@@ -10,6 +10,7 @@ int main()
 
 	// Copy three characters of s1 (starting 
 	// from position 1) 
+	//
 	string r = s1.substr(1, 3); 
 
 	// prints the result 
