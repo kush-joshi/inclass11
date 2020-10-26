@@ -1,6 +1,6 @@
 // CPP program to illustrate substr() 
 #include <string.h> 
-#include <iostream> 
+#include <i ostream> 
 using namespace std; 
 
 int main() 
